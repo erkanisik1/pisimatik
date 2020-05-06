@@ -1,0 +1,31 @@
+sudo
+ntfs-3g
+ntfsprogs
+-c x11.server
+-c hardware.firmware
+bash-completion
+device-mapper-static
+libxkbcommon
+lvm2-static
+mdadm-static
+module-virtualbox
+module-virtualbox-guest
+-c x11.driver
+xorg-video-vesa
+xorg-video-vmware
+xorg-input-vmmouse
+xorg-input-evdev
+xorg-input-kbd
+xorg-input-mouse
+xkeyboard-config
+xinit
+-c desktop.kde --ignore-file-conflict
+-c desktop.toolkit.qt5
+avahi
+dbus-x11
+qt5-qdbusviewer
+firefox
+geany
+nano
+freerdp
+git

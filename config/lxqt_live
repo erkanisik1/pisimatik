@@ -1,0 +1,36 @@
+-c hardware.firmware
+bash-completion
+device-mapper-static
+libxkbcommon
+lvm2-static
+mdadm-static
+module-virtualbox
+module-virtualbox-guest
+ntfs-3g
+dosfstools
+-c x11.server
+-c x11.driver
+xorg-video-vesa
+xorg-video-vmware
+xorg-input-vmmouse
+xorg-input-evdev
+xorg-input-kbd
+xorg-input-mouse
+xkeyboard-config
+xinit
+qt5-location
+sudo
+avahi
+nano
+samba
+samba-devel
+mousepad
+-c desktop.lxqt
+oxygen-icons
+network-manager-applet
+ksysguard
+vlc
+firefox
+freerdp
+git
+htop

@@ -1,0 +1,14 @@
+*.iso
+iso_icerik/boot/pisi.sqfs
+iso_icerik/boot/kernel
+iso_icerik/boot/initrd
+iso_icerik/LiveOS/*
+*.pyc
+*.log
+*.sfs
+*.tar.xz
+paket*
+kur/*
+.directory
+*.sha1sum
+*.pisi-index.xml*
